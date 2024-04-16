@@ -2,7 +2,7 @@
 
 <p align="center"><img width="100%" alt="Koti's Portfolio " src="https://raw.githubusercontent.com/KoteswararaoNadikoti/Portfolio/main/portfolio%20Banner.jpg" /></p>
 
-[Video Presentation](https://www.linkedin.com/feed/update/urn:li:activity:7165931639611596803/)
+[Video Presentation](https://www.linkedin.com/posts/koteswararaonadikotii_portfolio-github-responsivedesign-activity-7186001972292943872-Uwo_?utm_source=share&utm_medium=member_desktop)
 <br/>
 [Live Demo](https://koteswararaonadikoti.netlify.app/)
 
